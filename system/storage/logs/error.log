@@ -1,0 +1,20 @@
+2023-06-05 12:03:16 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-05 12:03:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:03:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:10:56 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-05 12:10:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:10:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:18:33 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-05 12:18:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:18:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:18:34 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-05 12:18:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-05 12:18:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
