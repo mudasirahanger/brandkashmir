@@ -22,9 +22,9 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'aws.connect.psdb.cloud');
-define('DB_USERNAME', '48ioymb8ldpch11ustkd');
-define('DB_PASSWORD', 'pscale_pw_TKACwaAoVbLVxPseJP9prBCU2Pm7EvU5IEIyUxZ2opB');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
 define('DB_DATABASE', 'brandkashmir');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
