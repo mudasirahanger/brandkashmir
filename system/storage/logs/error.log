@@ -38,3 +38,129 @@ server does not allow insecure connections, client must use SSL/TLS
  in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
 2023-06-05 12:39:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
 2023-06-05 12:39:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:28:14 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-06 10:28:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:28:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:32:02 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-06 10:32:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:32:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:38:41 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-06 10:38:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:38:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:41:41 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-06 10:41:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:41:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:41:42 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 7
+2023-06-06 10:41:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 10:41:42 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 10
+2023-06-06 11:08:34 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 15
+2023-06-06 11:08:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:34 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:35 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 15
+2023-06-06 11:08:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:36 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 15
+2023-06-06 11:08:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:36 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 15
+2023-06-06 11:08:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:52 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 15
+2023-06-06 11:08:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:08:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli.php on line 18
+2023-06-06 11:11:10 - PHP Warning:  mysqli::__construct(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 7
+2023-06-06 11:11:10 - PHP Warning:  DB\MySQLi_secure::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 10
+2023-06-06 11:11:10 - PHP Warning:  DB\MySQLi_secure::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 10
+2023-06-06 11:16:28 - PHP Warning:  mysqli::real_connect(): (HY000/1105): unknown error: Code: UNAVAILABLE
+server does not allow insecure connections, client must use SSL/TLS
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 23
+2023-06-06 11:30:57 - PHP Warning:  failed loading cafile stream: `ca-cert.pem' in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_connect(): Cannot connect to MySQL by using SSL in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_connect(): [2002]  (trying to connect via (null)) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_connect(): (HY000/2002):  in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:30:57 - PHP Warning:  mysqli::set_charset(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 24
+2023-06-06 11:30:57 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 25
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:30:57 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:30:57 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:30:57 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
+2023-06-06 11:31:16 - PHP Warning:  Use of undefined constant DB_SSL - assumed 'DB_SSL' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 7
+2023-06-06 11:31:16 - PHP Warning:  Use of undefined constant DB_SSL_KEYFILE - assumed 'DB_SSL_KEYFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 8
+2023-06-06 11:31:16 - PHP Warning:  Use of undefined constant DB_SSL_CERTFILE - assumed 'DB_SSL_CERTFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 9
+2023-06-06 11:31:16 - PHP Warning:  Use of undefined constant DB_SSL_CAFILE - assumed 'DB_SSL_CAFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 10
+2023-06-06 11:31:16 - PHP Warning:  failed loading cafile stream: `DB_SSL_CAFILE' in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_connect(): Cannot connect to MySQL by using SSL in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_connect(): [2002]  (trying to connect via (null)) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_connect(): (HY000/2002):  in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:16 - PHP Warning:  mysqli::set_charset(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 24
+2023-06-06 11:31:16 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 25
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:16 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:16 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:16 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
+2023-06-06 11:31:17 - PHP Warning:  Use of undefined constant DB_SSL - assumed 'DB_SSL' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 7
+2023-06-06 11:31:17 - PHP Warning:  Use of undefined constant DB_SSL_KEYFILE - assumed 'DB_SSL_KEYFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 8
+2023-06-06 11:31:17 - PHP Warning:  Use of undefined constant DB_SSL_CERTFILE - assumed 'DB_SSL_CERTFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 9
+2023-06-06 11:31:17 - PHP Warning:  Use of undefined constant DB_SSL_CAFILE - assumed 'DB_SSL_CAFILE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 10
+2023-06-06 11:31:17 - PHP Warning:  failed loading cafile stream: `DB_SSL_CAFILE' in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_connect(): Cannot connect to MySQL by using SSL in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_connect(): [2002]  (trying to connect via (null)) in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_connect(): (HY000/2002):  in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 18
+2023-06-06 11:31:17 - PHP Warning:  mysqli::set_charset(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 24
+2023-06-06 11:31:17 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 25
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:17 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:17 - PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 55
+2023-06-06 11:31:17 - PHP Warning:  mysqli::query(): invalid object or resource mysqli
+ in C:\xampp\htdocs\nad\html2pdf\brandkashmir\system\library\db\mysqli_secure.php on line 29
