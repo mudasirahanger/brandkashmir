@@ -1,14 +1,125 @@
 {{ header }}
-<div id="common-home" class="container">
-  <div class="row">{{ column_left }}
-    {% if column_left and column_right %}
-    {% set class = 'col-sm-6' %}
-    {% elseif column_left or column_right %}
-    {% set class = 'col-sm-9' %}
-    {% else %}
-    {% set class = 'col-sm-12' %}
-    {% endif %}
-    <div id="content" class="{{ class }}">{{ content_top }}{{ content_bottom }}</div>
-    {{ column_right }}</div>
+<div class="swiper-container home-slider multi-slider min-vh-400 swiper-container-fade swiper-container-horizontal" style="height: 110vh;margin-top: 160px;">
+    <!-- Additional required wrapper-->
+    <div class="swiper-wrapper" style="transition-duration: 0ms;">
+    
+
+      <!-- Slides-->
+      <div class="swiper-slide bg-cover swiper-slide-active" style="background-image: url(&quot;https://images.unsplash.com/photo-1623996732821-66f739df7280?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80&quot;); background-position: center bottom; width: 1519px; transition-duration: 0ms; opacity: 1; transform: translate3d(-1519px, 0px, 0px);" data-swiper-slide-index="0">
+        <div class="homeslider-title-wrap" style="position: absolute; bottom: 0px; width: 100%; padding-top: 62px; padding-left: 180px; padding-right: 70px;  padding-bottom: 90px; text-shadow: 1px 1px 2px #1c1c1c;">
+          <h5 class="text-uppercase text-white font-weight-light mb-1 letter-spacing-3 homeslider-title2">
+          Doodpathri , Budgam</h5>
+          <h1 class="text-light homeslider-title1" style="font-size: 6rem; letter-spacing: -3px;">
+            A Kashmir</h1>
+        </div>
+      </div>
+      <div class="swiper-slide bg-cover swiper-slide-next" style="background-image: url(&quot;https://images.unsplash.com/photo-1614591276564-7b3e69347a48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80&quot;); background-position: center bottom; width: 1519px; transition-duration: 0ms; opacity: 0; transform: translate3d(-3038px, 0px, 0px);" data-swiper-slide-index="1">
+        <div class="homeslider-title-wrap" style="position: absolute; bottom: 0px; width: 100%; padding-top: 62px; padding-left: 180px; padding-right: 70px;  padding-bottom: 90px; text-shadow: 1px 1px 2px #1c1c1c;">
+          <h5 class="text-uppercase text-white font-weight-light mb-1 letter-spacing-3 homeslider-title2">
+           Dal Lake, Srinagar</h5>
+          <h1 class="text-light homeslider-title1" style="font-size: 6rem; letter-spacing: -3px;">
+            Shikara ride</h1>
+        </div>
+      </div>
+    
+
+  
+    </div>
+
+
+    <div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-bullets-dynamic" style="width: 190px;"><span class="swiper-pagination-bullet swiper-pagination-bullet-active swiper-pagination-bullet-active-main" tabindex="0" role="button" aria-label="Go to slide 1" style="left: 57px;"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active-next" tabindex="0" role="button" aria-label="Go to slide 2" style="left: 57px;"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active-next-next" tabindex="0" role="button" aria-label="Go to slide 3" style="left: 57px;"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4" style="left: 57px;"></span></div>
+    <div class="swiper-nav d-none d-lg-block d-none">
+      <div class="swiper-button-prev swiper-button-white" tabindex="0" role="button" aria-label="Previous slide"></div>
+      <div class="swiper-button-next swiper-button-white" tabindex="0" role="button" aria-label="Next slide"></div>
+    </div>
+
+    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+  </div>
+
+
+  <section class="pt-6">
+        <div class="container">
+            <div class="row mb-6">
+                <div class="col-md d-flex justify-content-center align-items-center title-border-right">
+                    <img class="img-fluid" src="https://www.malaysia.travel/img/placer/title-home-1.png">
+                </div>
+                <div class="col-md d-flex align-items-center text-md-left text-sm-center">
+                    <p class="subtitle text-muted">Travel around to experience the remarkable treasures and the hidden gems
+                        in Malaysia. Each state offers a unique Malaysian experience for all.</p>
+                </div>
+            </div>
+            <div class="row">
+                                    <div class="col-sm-4 col-xl-4 mb-4">
+                        <!-- package item-->
+<div class="h-100 d-flex flex-column align-items-center">
+    <div class="w-100">
+        <div class="embed-responsive embed-responsive-1by1">
+            <img alt="" class="card-img-top embed-responsive-item rounded" src="https://www.malaysia.travel/storage/3628/conversions/0687c49ac28218da599e0452b35b7ee0-thumb.jpg"><a class="tile-link" href="/explore/bohey-dulang-island"></a>
+        </div>
+    </div>
+    <div class="card" style="margin-top: -40px; width: 90%; min-height: 105px;">
+        <div class="card-body d-flex flex-column align-items-center" style="padding: 0.9rem !important;">
+            <div class="w-100">
+                <div class="d-flex card-subtitle mb-1">
+                    		                        <p class="flex-grow-1 mb-0 text-muted text-sm" title="Sabah">Sabah</p>
+                                    </div>
+                <h6 class="card-title">
+                    <a class="text-decoration-none text-dark" href="/explore/bohey-dulang-island">Bohey Dulang Island</a>
+                </h6>
+            </div>
+        </div>
+    </div>
 </div>
+                    </div>
+                                    <div class="col-sm-4 col-xl-4 mb-4">
+                        <!-- package item-->
+<div class="h-100 d-flex flex-column align-items-center">
+    <div class="w-100">
+        <div class="embed-responsive embed-responsive-1by1">
+            <img alt="" class="card-img-top embed-responsive-item rounded" src="https://www.malaysia.travel/storage/3818/conversions/8e5be28ef38339b4b3f14c0cc70a9925-thumb.jpg"><a class="tile-link" href="/explore/petronas-twin-tower"></a>
+        </div>
+    </div>
+    <div class="card" style="margin-top: -40px; width: 90%; min-height: 105px;">
+        <div class="card-body d-flex flex-column align-items-center" style="padding: 0.9rem !important;">
+            <div class="w-100">
+                <div class="d-flex card-subtitle mb-1">
+                    		                        <p class="flex-grow-1 mb-0 text-muted text-sm" title="WP Kuala Lumpur">WP Kuala Lumpur</p>
+                                    </div>
+                <h6 class="card-title">
+                    <a class="text-decoration-none text-dark" href="/explore/petronas-twin-tower">Petronas Twin Tower</a>
+                </h6>
+            </div>
+        </div>
+    </div>
+</div>
+                    </div>
+                                    <div class="col-sm-4 col-xl-4 mb-4">
+                        <!-- package item-->
+<div class="h-100 d-flex flex-column align-items-center">
+    <div class="w-100">
+        <div class="embed-responsive embed-responsive-1by1">
+            <img alt="" class="card-img-top embed-responsive-item rounded" src="https://www.malaysia.travel/storage/5832/conversions/3cda372fc4476e9e436b0769ef227677-thumb.jpg"><a class="tile-link" href="/explore/everything-is-awesome-at-legoland"></a>
+        </div>
+    </div>
+    <div class="card" style="margin-top: -40px; width: 90%; min-height: 105px;">
+        <div class="card-body d-flex flex-column align-items-center" style="padding: 0.9rem !important;">
+            <div class="w-100">
+                <div class="d-flex card-subtitle mb-1">
+                    		                        <p class="flex-grow-1 mb-0 text-muted text-sm" title="Johor">Johor</p>
+                                    </div>
+                <h6 class="card-title">
+                    <a class="text-decoration-none text-dark" href="/explore/everything-is-awesome-at-legoland">Everything Is Awesome At Legoland!</a>
+                </h6>
+            </div>
+        </div>
+    </div>
+</div>
+                    </div>
+                            </div>
+            <div class="row">
+                <div class="col-md-12 d-md-flex align-items-center justify-content-center mt-1">
+                    <a class="btn btn-sm btn-dark px-3" href="/explore"> SHOW ALL<i class="fa-arrow-right fa ml-2"></i></a>
+                </div>
+            </div>
+    </div></section>
 {{ footer }}
